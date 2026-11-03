@@ -14,7 +14,3 @@ VPN、Proxy不时也会出现新应用，操作方式多数基本也大同小异
 * 中国居民请自觉关闭本书并24小时内删掉与此相关的所有内容，否则出现一切后果本书作者概不负责
 
 此书献给热爱互联网的人们，以上...
-
-***[About Me（关于作者）](https://hoochanlon.github.io)***
-
-[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
